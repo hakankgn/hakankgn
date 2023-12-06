@@ -43,19 +43,9 @@
 <a href="https://medium.com/hakanakgunplus" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
+</div>    
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hakankgn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
- 
-
-<br/>  
+ <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21elj276eljndwf2wqjtbjmhi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
