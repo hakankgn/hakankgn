@@ -1,7 +1,7 @@
 ### <div align="center">I'm Hakan, a full-time front-end developer 👨‍💻</div>  
   <div align="center">
-  <a href="https://hakanakgun.me/" target="_blank"></div>My Website</a>
-
+  <a href="https://hakanakgun.me/" target="_blank">My Website</a></div>
+  
 
 🚀 Always striving for optimal performance  
   
