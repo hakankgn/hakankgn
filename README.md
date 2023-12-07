@@ -1,5 +1,5 @@
 ### <div align="center">I'm Hakan, a full-time front-end developer 👨‍💻</div>  
-  [My Resume](https://hakanakgun.me/)
+  [My Resume](https://hakanakgun.me/){:target="_blank"}
 
 
 🚀 Always striving for optimal performance  
